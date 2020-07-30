@@ -10,11 +10,11 @@ By creating this E-commerece Add to cart Page,i have gained a strong understandi
 ## Note 
 I have devoted so much of time to make it responsive and beautiful using Javascript and Bootstrap5 if you really liked it then give it a Star.
 
-Setup:
+## Setup:
 - run ```Localhost:Port``` or ```Index.html``` On your Local Machine.
 
 ## License 
 
-[MIT](https://github.com/web-codegrammer/Bootstrap-4-Website-landing-Page/blob/master/LICENSE)
+[MIT](https://github.com/web-codegrammer/Javascriprt-Ecommerce-Shopping-Cart/blob/master/LICENSE)
 
 Issued to ```Devanshu Vashishtha``` | All Rights Reserved | 2020
