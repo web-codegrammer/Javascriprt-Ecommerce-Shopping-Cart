@@ -8,7 +8,7 @@ In this code repository, i have created a Simple E-commerece Add to cart page. I
 By creating this E-commerece Add to cart Page,i have gained a strong understanding of Bootstrap 5 and Javascript
 
 ## Note 
-I have devoted so much of time to make it responsive and beautiful using Javascript and Bootstrap5 if you really liked it then give it a Star.
+I have devoted so much of time to make it responsive and beautiful using Javascript and Bootstrap5 if you really liked it then please 🙏🙏 give it a Star.
 
 ## Setup:
 - run ```Localhost:Port``` or ```Index.html``` On your Local Machine.
